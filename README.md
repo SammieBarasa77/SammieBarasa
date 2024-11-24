@@ -359,6 +359,8 @@ ORDER BY Hour_;
 ## Data Visualization
 
 #### Dashboard
+![Power BI Dashboard](https://github.com/SammieBarasa77/SammieBarasa/blob/main/Sales/assets/images/Screenshot%202024-11-19%20224354.png)
+
 Tableau Dashboard
 "https://public.tableau.com/app/profile/samuel.barasa/viz/SalesAnalysis_17320471579370/Dashboard2/"
 
