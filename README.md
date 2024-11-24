@@ -1,5 +1,5 @@
 # Data Project
-
+![Logo](https://github.com/SammieBarasa77/employee_performance/blob/main/assets/images/Screenshot%202024-11-23%20222057.png)
 ## The Superstore Product Sales Analysis Project
 
 This project delves into the sales performance of a fictional superstore, offering actionable insights for improved decision-making. Using SQL, Tableau and Power BI, I analyzed key sales metrics, uncovered trends, and addressed pressing sales challenges.
