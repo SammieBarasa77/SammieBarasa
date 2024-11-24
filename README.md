@@ -360,10 +360,7 @@ ORDER BY Hour_;
 
 #### Dashboard
 Tableau Dashboard
-<iframe src="https://public.tableau.com/app/profile/samuel.barasa/viz/SalesAnalysis_17320471579370/Dashboard2?:showVizHome=no&:embed=true"
-        width="800"
-        height="600"
-        frameborder="0"></iframe>
+"https://public.tableau.com/app/profile/samuel.barasa/viz/SalesAnalysis_17320471579370/Dashboard2/"
 
 Power BI Dashboard
 The **Super Store Product Sales Analysis** dashboard provides insights into sales, profit margins, and customer trends. View the interactive version or download the Power BI file to explore further.
