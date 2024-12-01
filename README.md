@@ -1,5 +1,5 @@
 # Data Project
-![Logo](https://github.com/SammieBarasa77/employee_performance/blob/main/assets/images/Screenshot%202024-11-23%20222057.png)
+![Logo](https://github.com/SammieBarasa77/walmart_sales/blob/main/assets/images/cover_final.png)
 ## The Superstore Product Sales Analysis Project
 
 This project delves into the sales performance of a fictional superstore, offering actionable insights for improved decision-making. Using SQL, Tableau and Power BI, I analyzed key sales metrics, uncovered trends, and addressed pressing sales challenges.
@@ -7,7 +7,7 @@ This project delves into the sales performance of a fictional superstore, offeri
 Key Trends and Metrics:
 
 Sales Distribution
-Identified product categories and regions contributing the most and least to total sales.
+Identified product categories and regions that contributed the most and least to total sales.
 Profitability Analysis: Revealed high-performing products and segments, as well as those incurring losses.
 Customer Trends: Highlighted purchasing behaviours and seasonal sales patterns that drive revenue.
 
@@ -343,8 +343,8 @@ GROUP BY Day_Type;
 ```sql
 | Day_Type | WeekDay_type_Sales |
 |----------|--------------------|
-| Weekday	 | 2156550.1640999587 |
-| Weekend	 | 110756.2262        |
+| Weekday  | 2156550.1640999587 |
+| Weekend  | 110756.2262        |
 ```
 
 -- Sales by time of the day
